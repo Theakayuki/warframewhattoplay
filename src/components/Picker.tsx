@@ -157,7 +157,7 @@ const Picker = () => {
                     <div className='warframe_card'>
                         <div className='item_container'>
                             <p className='description'>
-                                Description: {items[randomItem].description}
+                                <b>Description:</b> {items[randomItem].description}
                             </p>
                         </div>
                         <div className='item_container center'>
