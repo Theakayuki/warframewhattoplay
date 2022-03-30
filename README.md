@@ -12,4 +12,4 @@ I have made a Randomizer that will help with deciding what to play today using t
 | ---------------- | -------------------------------- |
 | React            | Faster UI setup                  |
 | StyledComponents | Fewer Files for styling          |
-| Warframe-items   | used to get the latest Warframes |
+| drops.warframestat.us Api   | used to get the latest Warframes from rest api |
